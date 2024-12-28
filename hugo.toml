@@ -1,0 +1,21 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "Parth's Blog"
+theme = 'PaperMod'
+
+[params]
+  [params.homeInfoParams]
+  Title = "Hi there 👋"
+  Content = "I am Parth"
+
+  [[params.socialIcons]]
+  name = "X"
+  url = "https://x.com/ParthTw"
+
+  [[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/parthsidpara/"
+
+  [[params.socialIcons]]
+  name = "instagram"
+  url = "https://www.instagram.com/parthsidpara2005/"
